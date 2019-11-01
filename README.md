@@ -2,7 +2,7 @@
 Con este programa se puede obtener el máximo común divisor de 2 números, y obtener la combinación lineal que satisfaga 
 la ecuación a*s+b+t=c , siendo c = mcd(a,b).
 ***************************************************************
-*******************Ejecución.**********************************
+                          Ejecución.
 ***************************************************************
 Da un numero: 1478
 Da el siguiente numero: 1235
@@ -19,6 +19,7 @@ Da el siguiente numero: 1235
 
 
  1478(432) + 1235(-517) = 1
-///////////////////////////////////////////////////////////////
-/////Yo creo que se puede mejorar, pero se los comparto.///////
-///////////////////////////////////////////////////////////////
+
+***************************************************************
+      Yo creo que se puede mejorar, pero se los comparto.
+***************************************************************
